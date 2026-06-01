@@ -25,7 +25,7 @@ A complete web-based tool to manage WhatsApp multi-device sessions using **QR co
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/whatsapp-session-manager.git](https://github.com/itisak-51/WASM.git)
+git clone https://github.com/itisak-51/WASM.git
 cd whatsapp-session-manager
 ```
 
